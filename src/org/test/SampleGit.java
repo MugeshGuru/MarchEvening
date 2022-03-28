@@ -9,9 +9,17 @@ public class SampleGit {
 		
 		System.out.println("Hai...");
 		
+		System.out.println("Welcome");
+		
+		System.out.println("Thankyou");
+		
 		System.out.println("Hello 1");
 		
 		System.out.println("Hai 1");
+
+		
+
+		
 		
 	}
 }
